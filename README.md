@@ -1,4 +1,4 @@
-# Interactive Business Card 
+# Interactive Contact Card 
 
 This project showcases an interactive business card component built with React and Tailwind CSS. It demonstrates modern web development techniques, including responsive design, animations, and hover effects.
 
